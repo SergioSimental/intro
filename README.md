@@ -1,7 +1,7 @@
 # Introduction
 
 team members:
-          Titichot Nuntapramote
+          Titichot Nuntapramote\n
           Saroj
           Sergio
           Hao
