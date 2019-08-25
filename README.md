@@ -1,8 +1,11 @@
 # Introduction
+Link [to the code]()
+
+This is the discription of the project.......
 
 team members:
-          Titichot Nuntapramote\n
-          Saroj
-          Sergio
-          Hao
-          Edward
+- Titichot Nuntapramote
+- Saroj
+- Sergio
+- Hao
+- Edward
