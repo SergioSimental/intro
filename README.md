@@ -5,7 +5,7 @@ This is the discription of the project.......
 
 team members:
 - Titichot Nuntapramote
-- Saroj
-- Sergio
-- Hao
-- Edward
+- Saroj Poudel
+- Sergio Simental
+- Hao Huynh
+- Edward Guzman
